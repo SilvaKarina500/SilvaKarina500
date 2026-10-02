@@ -2,11 +2,11 @@
 <h1 align="center">Olá, eu sou o Karina Silva 👋</h1>
  
 <h3 align="center">
-Desenvolvedora Full Stack • Mobile 
+💻 Desenvolvedora Full Stack | 📱 Mobile | 🎨 UI/UX 
 </h3>
  
 <p align="center">
-Transformando ideias em experiências digitais modernas, funcionais e intuitivas.
+Transformo ideias em soluções digitais funcionais, intuitivas e com propósito.
 </p>
  
 ---
@@ -44,44 +44,76 @@ Transformando ideias em experiências digitais modernas, funcionais e intuitivas
  
 ---
  
-## 🎯 Atualmente focado em
- 
-- Desenvolvimento Full Stack
-- Node.js & APIs REST
-- Inteligência Artificial
-- Big Data
-- UI/UX Design
-- Performance e Responsividade
-- Boas práticas de código
- 
----
- 
-## 🧩 Soft Skills
- 
-✔️ Pensamento analítico  
-✔️ Resolução de problemas  
-✔️ Trabalho em equipe  
-✔️ Comunicação interpessoal  
-✔️ Organização e produtividade  
-✔️ Adaptabilidade e aprendizado contínuo  
+## 🤖 Atualmente estudando
+
+🚀 Desenvolvimento Full Stack
+📱 Desenvolvimento Mobile
+🤖 Inteligência Artificial
+📊 Big Data e análise de dados
+🎨 UI/UX Design
+⚙️ APIs e integração de sistemas
+🗄️ Banco de dados
+☁️ Tecnologias e ferramentas para desenvolvimento moderno
+🧠 Boas práticas e organização de código
+
+Aprender programação é aceitar que sempre existe algo novo para descobrir.
  
 ---
  
-## 📌 Projetos em destaque
+## 🧠 Habilidades
+
+✔️ Pensamento analítico
+✔️ Resolução de problemas
+✔️ Organização
+✔️ Comunicação
+✔️ Trabalho em equipe
+✔️ Adaptabilidade
+✔️ Criatividade
+✔️ Aprendizagem contínua
+✔️ Visão de processos
+✔️ Atenção aos detalhes
+---
+
+📈 Em constante evolução
+Aprender → Praticar → Errar → Corrigir → Evoluir → Criar
+                         ↑
+                    repetir sempre
+
+Estou construindo minha carreira passo a passo, transformando conhecimento em projetos e desafios em aprendizado.
+
+🚀 O código de hoje é o conhecimento que constrói o meu futuro.
+
  
-🚧 Em constante desenvolvimento...  
-Aqui você encontrará projetos voltados para:
- 
-- Desenvolvimento Web
-- Interfaces modernas
-- Dashboards
-- Automação
-- Experiências UI/UX
-- Soluções criativas com JavaScript
- 
+## 📌 Projetos
+
+Estou construindo meu portfólio através de projetos práticos que envolvem diferentes áreas da tecnologia.
+
+🔹 Projetos Web
+
+Aplicações desenvolvidas utilizando HTML, CSS, JavaScript e integração com APIs.
+
+🔹 Projetos Back-End
+
+APIs desenvolvidas utilizando Node.js, TypeScript e NestJS, com integração a bancos de dados.
+
+🔹 Projetos Mobile
+
+Aplicações desenvolvidas com Flutter e Dart, explorando interfaces, navegação e integração com serviços.
+
+🔹 Projetos UI/UX
+
+Protótipos e interfaces desenvolvidos pensando em usabilidade, organização visual e experiência do usuário.
+
+🔹 Projetos de automação
+
+Soluções voltadas para organização de informações, processos e redução de tarefas repetitivas.
+
+🚧 Meu portfólio está em constante construção — assim como minha evolução na tecnologia.
 ---
  
-## 🌐 Conecte-se comigo
+## 🌐 Vamos nos conectar?
+
+Se você quiser acompanhar minha evolução, trocar experiências ou conversar sobre tecnologia, fique à vontade para entrar em contato.
  
 <p align="left">
 <a href="mailto:silvakarina500@gmail.com" target="_blank">
@@ -99,6 +131,14 @@ Aqui você encontrará projetos voltados para:
  
 <div align="center">
  
-### ⚡ “Tecnologia é transformar ideias em impacto.”
+### ⚡ Tecnologias não param de evoluir. Eu também não.
+💜 Obrigada por visitar meu perfil!
+
+“Toda ideia pode se tornar uma solução.
+Toda solução começa com alguém disposto a aprender.”
+
+⭐ Se algum dos meus projetos ajudar você, considere deixar uma estrela!
+
+🚀 Bem-vindo ao meu universo de código, criatividade e evolução.
  
 </div>
