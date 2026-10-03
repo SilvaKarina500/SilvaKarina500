@@ -6,19 +6,43 @@
 </h3>
  
 <p align="center">
-Transformo ideias em soluções digitais funcionais, intuitivas e com propósito.
+Não preciso saber tudo para começar. Preciso começar para aprender.
 </p>
  
 ---
  
 ## 🚀 Sobre mim
- 
-💻 Desenvolvedor Full Stack focado em criar aplicações modernas, responsivas e escaláveis.  
-🎨 Designer UI/UX com experiência em prototipação e criação de interfaces no Figma.  
-📊 Experiência com análise de dados, monitoramento logístico e automação de processos.  
-🧠 Perfil analítico, criativo e orientado à resolução de problemas.  
-📚 Sempre aprendendo novas tecnologias e evoluindo constantemente.
- 
+
+💻 Desenvolvedora Full Stack com foco na construção de aplicações modernas, responsivas e funcionais.
+
+📱 Desenvolvendo conhecimentos em aplicações Mobile com Flutter e Dart.
+
+⚙️ Experiência prática com Node.js, NestJS e APIs REST.
+
+🎨 Interesse em UI/UX, prototipação e criação de interfaces no Figma.
+
+🗄️ Experiência com MySQL e integração de aplicações com bancos de dados.
+
+📊 Conhecimentos relacionados a análise de dados, monitoramento e processos logísticos.
+
+🧠 Perfil analítico, criativo e focado na resolução de problemas.
+
+📚 Atualmente estudando e expandindo meus conhecimentos em tecnologia.
+
+✨ Gosto de transformar desafios em oportunidades para aprender algo novo.
+
+
+💡 Minha jornada na tecnologia
+
+Minha jornada é construída com aprendizado, prática e muitos desafios.
+
+Comecei minha trajetória profissional na área de Logística, onde desenvolvi habilidades como organização, análise, controle de processos, resolução de problemas e trabalho em equipe.
+
+Com o tempo, descobri na programação uma nova possibilidade: criar soluções em vez de apenas utilizar ferramentas.
+
+Hoje, busco unir minha experiência profissional com a tecnologia para desenvolver aplicações que possam automatizar processos, organizar informações e melhorar experiências.
+
+🌱 Cada linha de código representa uma nova etapa da minha evolução.
 ---
  
 ## 🛠️ Stack Tecnológica
@@ -109,6 +133,16 @@ Protótipos e interfaces desenvolvidos pensando em usabilidade, organização vi
 Soluções voltadas para organização de informações, processos e redução de tarefas repetitivas.
 
 🚧 Meu portfólio está em constante construção — assim como minha evolução na tecnologia.
+
+🎯 Objetivos
+
+Meu objetivo é continuar evoluindo como desenvolvedora e transformar conhecimento em projetos cada vez mais completos.
+
+Quero construir soluções que unam:
+
+Tecnologia + Criatividade + Experiência do usuário + Resolução de problemas
+
+Busco oportunidades onde eu possa aprender, contribuir, desenvolver minhas habilidades e crescer profissionalmente na área de tecnologia.
 ---
  
 ## 🌐 Vamos nos conectar?
