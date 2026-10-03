@@ -56,7 +56,7 @@ Hoje, busco unir minha experiência profissional com a tecnologia para desenvolv
 <img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs" />
  
 ### 🗄️ Banco de Dados
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
  
 ### 🔧 Ferramentas & Versionamento
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
