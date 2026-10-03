@@ -4,9 +4,9 @@
 <h3 align="center">
 💻 Desenvolvedora Full Stack | 📱 Mobile | 🎨 UI/UX 
 </h3>
- 
+ <div align="center">
 <p align="center">
-Não preciso saber tudo para começar. Preciso começar para aprender.
+Código não é apenas tecnologia. É uma forma de transformar problemas em soluções.
 </p>
  
 ---
@@ -47,7 +47,7 @@ Hoje, busco unir minha experiência profissional com a tecnologia para desenvolv
  
 ## 🛠️ Stack Tecnológica
  
-<div align="center">
+
  
 ### 💻 Front-End
 <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -64,7 +64,7 @@ Hoje, busco unir minha experiência profissional com a tecnologia para desenvolv
 ### 🎨 Design & UI/UX
 <img src="https://skillicons.dev/icons?i=figma,photoshop" />
  
-</div>
+
  
 ---
  
@@ -175,4 +175,5 @@ Toda solução começa com alguém disposto a aprender.”
 
 🚀 Bem-vindo ao meu universo de código, criatividade e evolução.
  
+</div>
 </div>
